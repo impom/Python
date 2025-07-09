@@ -1,0 +1,1 @@
+print("Hello Friend! Hello friend ? thats lame , maybe i should give you a name")
